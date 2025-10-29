@@ -1,5 +1,4 @@
-# README.md
-# realtime-chat-appilication
+
 # realtime-chat-appilication
 # 💬 Realtime Chat Application
 
